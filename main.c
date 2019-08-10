@@ -3,9 +3,10 @@
 
 int main()
 {
-    char name [] = "John";
     int age = 18;
-    printf("Hello world! My name is %s.\n", name);
-    printf("And I'm %d years old.\n", age);
+    double gpa = 4.0;
+    char grade = 'A';
+    char name [] = "Arthur Dent";
+
     return 0;
 }

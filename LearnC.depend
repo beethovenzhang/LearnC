@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1565810705 source:f:\course\cs\c\learnc\learnc\main.c
+	<stdio.h>
+	<stdlib.h>
+
